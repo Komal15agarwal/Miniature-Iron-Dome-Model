@@ -1,6 +1,6 @@
 # Miniature-Iron-Dome-Model
 ## Introduction
-  Introduction to Miniature Iron Dome
+### Introduction to Miniature Iron Dome
 The Miniature Iron Dome Model is a scaled-down prototype designed to replicate the core functions of the real-world Iron Dome missile defense system. This model focuses on detecting, track incoming threats using a combination of sensors, microcontrollers, actuators, and automated launching mechanisms. By integrating Proximity sensors, the prototype can identify approaching objects, analyze potential threats, and deploy countermeasures in real-time. The system utilizes Arduino Shield as the central processing unit, while stepper motors control movement for accurate targeting. This project serves as an educational and research tool, helping students and enthusiasts understand missile defense, automation, and embedded systems through hands-on learning. The integration of wireless communication, artificial intelligence, and autonomous decision-making makes it a versatile platform for future enhancements in defense simulations and robotics applications. Through this model shown in       Figure 1.1, we aim to provide a practical understanding of automated tracking, demonstrating how advanced defense technologies can be miniaturized for research and learning purposes.
 
 Figure 1.1: Working of Miniature Iron Dome
