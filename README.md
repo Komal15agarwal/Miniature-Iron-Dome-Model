@@ -100,14 +100,15 @@ Clock Speed: 16MHz<br></td>
 <tr><td>Vero Board</td>	<td>Double sided</td></tr>
 </table>
 
-####  Arduino UNO Shield: 
+### Arduino UNO Shield: 
 
 An Arduino UNO Shield is an expansion board that connects directly to an Arduino microcontroller, enhancing its functionality by providing additional features such as motor control, sensor integration, wireless communication, and display interfaces. Shields are designed to stack onto the Arduino board, eliminating the need for complex wiring and allowing easy implementation of advanced functions.
 The advantage of using an Arduino Shield is its plug-and-play nature, which simplifies development and enhances system reliability. Further in this chapter, we will discuss the circuit connections, programming, and detailed functionality of the Arduino Shield in the system.
 
 
                   
-Fig 3.1: Arduino Shield                                        Fig 3.2:Arduino UNO 
+Fig 3.1: Arduino Shield                                        Fig 3.2:Arduino UNO <br>
+
 Table 3.1: Technical Specifications of Arduino UNO
 <table>
 <tr><td>Microcontroller</td>	<td>ATmega328</td></tr>
@@ -127,15 +128,15 @@ Table 3.1: Technical Specifications of Arduino UNO
 <tr><td>Weight</td>	<td>28 g</td></tr>
 </table>
 
-3.1.2. IR Proximity Sensor:
-An IR Proximity Sensor is an electronic device that detects objects or obstacles within a certain range using infrared (IR) light. It consists of an IR emitter that emits infrared rays and an IR receiver that detects reflected signals from nearby objects. When an object enters the sensor’s detection range, the reflected IR signal is processed to determine its presence and distance.
-The IR Proximity Sensor works efficiently in various lighting conditions and can be fine-tuned for sensitivity adjustments. Further in this chapter, we will explore its working principle, circuit integration, and programming to optimize its performance within the system.
-Features:-
-●Detects objects without any physical contact, reducing wear and tear.
-●Provides real-time detection and immediate response to detected objects.
-●Can be calibrated to detect objects at different distances based on requirements.
-●Operates efficiently with minimal energy requirements.
-Specifications:
+### IR Proximity Sensor:
+An IR Proximity Sensor is an electronic device that detects objects or obstacles within a certain range using infrared (IR) light. It consists of an IR emitter that emits infrared rays and an IR receiver that detects reflected signals from nearby objects. When an object enters the sensor’s detection range, the reflected IR signal is processed to determine its presence and distance.<br>
+The IR Proximity Sensor works efficiently in various lighting conditions and can be fine-tuned for sensitivity adjustments. Further in this chapter, we will explore its working principle, circuit integration, and programming to optimize its performance within the system.<br>
+Features:-<br>
+●Detects objects without any physical contact, reducing wear and tear.<br>
+●Provides real-time detection and immediate response to detected objects.<br>
+●Can be calibrated to detect objects at different distances based on requirements.<br>
+●Operates efficiently with minimal energy requirements.<br>
+Specifications:<br>
 <table>
 <tr><td>Operating Voltage (VDC):</td>	<td>5</td>
 <tr><td>Light Source:</td>	<td>Infrared</td></tr>
@@ -143,12 +144,12 @@ Specifications:
 <tr><td>Current consumption(mA):</td>	<td>100mA</td></tr>
 <tr><td>Dimensions (mm) :</td>	<td>17.68 x 50 (Dia.xLength.)</td></tr>
 <tr><td>Cable Length (m):</td>	<td>1</td></tr>
-<tr><td>Shipping Weight</td>	<td></td>0.03 kg</td> </tr>
+<tr><td>Shipping Weight</td>	<td>0.03 kg</td> </tr>
 </table>
 
 Fig 3.3:IR Proximity Sensor
 
-3.1.3. Stepper Motor:
+### Stepper Motor:
 A Stepper Motor is a type of brushless DC motor that moves in discrete steps, making it ideal for applications requiring precise control of angular movement and positioning. Unlike conventional motors, stepper motors rotate in fixed increments, allowing for accurate and repeatable motion control without the need for feedback systems.The Stepper Motor is driven by a Motor Driver, which regulates power and movement based on input signals.
   Features of Stepper Motor:-
 <table>
