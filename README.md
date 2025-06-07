@@ -78,16 +78,24 @@ In this proposed model of the “Miniature Iron Dome System,” we are implement
 DC Current: 40mA<br>
 Clock Speed: 16MHz<br></td>
 </tr>
-IR Proximity Sensor	Operating Voltage: 5V
-Current consumption: 100mA
-Cable length: 1m
-Stepper Motor	Operating Voltage: 10~12V
-Current: 1.7A/phase
-Step Angle-1.8
-Motor Driver	Voltage Rating: 5V-35V
-DC Current: 2A
-Clock Speed: 16MHz
-Buzzer	Operating voltage:3V
-Laser	Operating voltage:9V
-Vero Board	Double sided
+<tr>
+<td>IR Proximity Sensor</td>	<td>Operating Voltage: 5V<br>
+Current consumption: 100mA<br>
+Cable length: 1m<br></td>
+</tr>
+<tr>
+<td>Stepper Motor</td>	<td>Operating Voltage: 10~12V<br>
+Current: 1.7A/phase<br>
+Step Angle-1.8<br></td>
+</tr>
+<tr>
+<td>Motor Driver</td> <td>Voltage Rating: 5V-35V<br>
+DC Current: 2A<br>
+Clock Speed: 16MHz<br></td>
+</tr>
+<tr>
+<td>Buzzer</td> <td>Operating voltage:3V</td>
+</tr>
+<tr><td>Laser</td>	<td>Operating voltage:9V</td></tr>
+<tr><td>Vero Board</td>	<td>Double sided</td></tr>
 </table>
