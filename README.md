@@ -73,9 +73,11 @@ In this proposed model of the “Miniature Iron Dome System,” we are implement
   <th>Components</th>
 <th>Components	Specification</th>
 </tr>
-Arduino Shield	Operating Voltage: 5V
-DC Current: 40mA
-Clock Speed: 16MHz
+<tr>
+<td>Arduino Shield</td> <td>	Operating Voltage: 5V<br>
+DC Current: 40mA<br>
+Clock Speed: 16MHz<br></td>
+</tr>
 IR Proximity Sensor	Operating Voltage: 5V
 Current consumption: 100mA
 Cable length: 1m
