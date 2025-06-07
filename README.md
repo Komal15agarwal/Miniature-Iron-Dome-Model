@@ -139,9 +139,9 @@ Specifications:
 <table>
 <tr><td>Operating Voltage (VDC):</td>	<td>5</td>
 <tr><td>Light Source:</td>	<td>Infrared</td></tr>
-<tr><td>Sensing range:</td>	<td></td>3cm to 80cm</td></tr>
-<tr><td>Current consumption(mA):</td>	<td></td>100mA</td></tr>
-<tr><td>Dimensions (mm) :</td>	<td></td>17.68 x 50 (Dia.xLength.)</td></tr>
+<tr><td>Sensing range:</td>	<td>3cm to 80cm</td></tr>
+<tr><td>Current consumption(mA):</td>	<td>100mA</td></tr>
+<tr><td>Dimensions (mm) :</td>	<td>17.68 x 50 (Dia.xLength.)</td></tr>
 <tr><td>Cable Length (m):</td>	<td>1</td></tr>
 <tr><td>Shipping Weight</td>	<td></td>0.03 kg</td> </tr>
 </table>
@@ -151,7 +151,7 @@ Fig 3.3:IR Proximity Sensor
 3.1.3. Stepper Motor:
 A Stepper Motor is a type of brushless DC motor that moves in discrete steps, making it ideal for applications requiring precise control of angular movement and positioning. Unlike conventional motors, stepper motors rotate in fixed increments, allowing for accurate and repeatable motion control without the need for feedback systems.The Stepper Motor is driven by a Motor Driver, which regulates power and movement based on input signals.
   Features of Stepper Motor:-
-
+<table>
 <tr><td>Model No.:</td>	<td>	JK42HS48-1684-01</td></tr>
 <tr><td>Rated Voltage (V):</td>	<td>	12 ~ 24</td></tr>
 <tr><td>Supply Current (A):</td>	<td>	1.7 A /Phase.</td></tr>
@@ -162,19 +162,22 @@ A Stepper Motor is a type of brushless DC motor that moves in discrete steps, ma
 <tr><td>Shaft Length (mm):</td>	<td>	21</td></tr>
 <tr><td>Shaft Diameter (mm):</td>	<td>	5</td></tr>
 <tr><td>Cable Length (cm):</td>	<td>	25</td></tr>
-  
+</table>
    Fig 3.4: Stepper Motor 		
 #### Motor Driver
 A motor driver is an electronic circuit or module that controls the operation of a motor by providing the necessary voltage and current. Since most microcontrollers (like Arduino or Raspberry Pi) cannot supply enough power to drive motors directly, a motor driver acts as an interface between the control system and the motor.
 Specification of Motor Driver:
-
+<table>
 <tr><td>Current Rating (A):</td>	<td>	2</td></tr>
 <tr><td>Voltage Rating (V):</td>	<td>	5 to 35</td></tr>
 <tr><td>Dimensions (L x W x H) mm:</td>	<td>	44 x 44 x 28</td></tr>
-3.2 Problem Definition
-●With the increasing threat of short-range aerial attacks, there is a need for a compact, cost-effective, and efficient air defense system capable of intercepting drones, rockets, and other low-altitude threats in urban and battlefield environments. 
-●Existing missile defense systems, like the Iron Dome, are large and costly, limiting their deployment in small-scale or mobile applications. 
-●This project aims to develop a miniature Iron Dome, integrating advanced radar, AI-driven threat detection, and precision interception to provide real-time, automated protection for critical assets and personnel.
-3.3 Working Principle
-●Working of the proposed model “Miniature Iron Dome” consists of four steps which are Threat Detection & Tracking, Threat Analysis & Response Decision, Interception & Neutralization and Post-Engagement Assessment.
-●The proposed model “Miniature Iron Dome” operates as a automated air defense system designed to detect, track, and intercept low-altitude aerial threats like drones, small rockets, and mortar shells. This automated, real-time defense system enhances security for urban environments, military bases, and critical infrastructure by providing rapid, cost-effective protection against aerial threats. 
+</table>
+
+
+### Problem Definition
+●With the increasing threat of short-range aerial attacks, there is a need for a compact, cost-effective, and efficient air defense system capable of intercepting drones, rockets, and other low-altitude threats in urban and battlefield environments. <br>
+●Existing missile defense systems, like the Iron Dome, are large and costly, limiting their deployment in small-scale or mobile applications. <br>
+●This project aims to develop a miniature Iron Dome, integrating advanced radar, AI-driven threat detection, and precision interception to provide real-time, automated protection for critical assets and personnel.<br>
+### Working Principle
+●Working of the proposed model “Miniature Iron Dome” consists of four steps which are Threat Detection & Tracking, Threat Analysis & Response Decision, Interception & Neutralization and Post-Engagement Assessment.<br>
+●The proposed model “Miniature Iron Dome” operates as a automated air defense system designed to detect, track, and intercept low-altitude aerial threats like drones, small rockets, and mortar shells. This automated, real-time defense system enhances security for urban environments, military bases, and critical infrastructure by providing rapid, cost-effective protection against aerial threats. <br>
