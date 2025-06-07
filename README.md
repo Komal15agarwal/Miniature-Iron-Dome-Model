@@ -63,3 +63,29 @@ The development of a Miniature Iron Dome is driven by the increasing threats pos
 
 ### Conclusions
 The development of a Miniature Iron Dome represents a crucial advancement in modern air defense, addressing the growing threats posed by drones, loitering munitions, and short-range rockets. By integrating advanced radar, AI-driven tracking, and lightweight interceptors, this system enhances mobile protection, urban defense, and cost-effective threat mitigation. While the Iron Dome has proven highly effective in defending against large-scale rocket attacks, its miniaturized counterpart aims to provide scalable, adaptable, and real-time protection for military convoys, naval vessels, and critical infrastructure. As asymmetric warfare continues to evolve, the Miniature Iron Dome serves as a vital step toward agile and efficient air defense solutions, ensuring security in both combat zones and civilian environments.
+
+## Proposed Technique Name    
+### Introduction
+
+In this proposed model of the “Miniature Iron Dome System,” we are implementing an advanced defense mechanism utilizing various electronic components to detect and neutralize aerial threats. This model integrates essential components such as an Arduino UNO Shield, IR Proximity Sensor, Stepper Motor, Vero Board, Motor Driver, SMPS, Laser, Buzzer and Jumper Wires, which collectively contribute to the system’s functionality.
+<table>
+<tr>
+  <th>Components</th>
+<th>Components	Specification</th>
+</tr>
+Arduino Shield	Operating Voltage: 5V
+DC Current: 40mA
+Clock Speed: 16MHz
+IR Proximity Sensor	Operating Voltage: 5V
+Current consumption: 100mA
+Cable length: 1m
+Stepper Motor	Operating Voltage: 10~12V
+Current: 1.7A/phase
+Step Angle-1.8
+Motor Driver	Voltage Rating: 5V-35V
+DC Current: 2A
+Clock Speed: 16MHz
+Buzzer	Operating voltage:3V
+Laser	Operating voltage:9V
+Vero Board	Double sided
+</table>
