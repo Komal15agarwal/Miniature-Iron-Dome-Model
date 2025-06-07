@@ -51,7 +51,7 @@ As per the references [12],[13] and [14] the tracking intensity of the sensor is
 
 ###   Motivation 
 
-        The development of a Miniature Iron Dome is driven by the increasing threats posed by drones, loitering munitions, and short-range rockets, which conventional air defense systems may struggle to counter effectively. As modern warfare shifts towards asymmetric threats and urban combat, there is a growing need for a compact, mobile, and cost-effective missile defense solution. A miniaturized system can provide on-the-move protection for military convoys, armored vehicles, naval ships, and forward operating bases, ensuring real-time interception of threats in dynamic environments. Additionally, integrating AI-driven threat detection, lightweight interceptors, and energy-efficient radar systems enhances its adaptability while maintaining affordability for small-scale defense applications.
+The development of a Miniature Iron Dome is driven by the increasing threats posed by drones, loitering munitions, and short-range rockets, which conventional air defense systems may struggle to counter effectively. As modern warfare shifts towards asymmetric threats and urban combat, there is a growing need for a compact, mobile, and cost-effective missile defense solution. A miniaturized system can provide on-the-move protection for military convoys, armored vehicles, naval ships, and forward operating bases, ensuring real-time interception of threats in dynamic environments. Additionally, integrating AI-driven threat detection, lightweight interceptors, and energy-efficient radar systems enhances its adaptability while maintaining affordability for small-scale defense applications.
 
 ###   Objectives
 
